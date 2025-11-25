@@ -67,3 +67,6 @@ tests/
 ## Licença
 
 MIT.
+
+## Autor 
+Arthur Fabris Peluque - 25001604
